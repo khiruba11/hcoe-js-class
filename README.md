@@ -1,4 +1,6 @@
 # hcoe-js-class
 
 
-Hello JS,Khiruba
+Hello,
+This is me Rekha Angdembe.
+I'm interested in Software Development.
